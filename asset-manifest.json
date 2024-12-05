@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/speak-n-chat/static/css/main.4ea9ff8b.css",
-    "main.js": "/speak-n-chat/static/js/main.f9c81d5a.js",
+    "main.js": "/speak-n-chat/static/js/main.a7c905fe.js",
     "static/js/453.c5ab181e.chunk.js": "/speak-n-chat/static/js/453.c5ab181e.chunk.js",
     "static/media/logo.svg": "/speak-n-chat/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/speak-n-chat/index.html",
     "main.4ea9ff8b.css.map": "/speak-n-chat/static/css/main.4ea9ff8b.css.map",
-    "main.f9c81d5a.js.map": "/speak-n-chat/static/js/main.f9c81d5a.js.map",
+    "main.a7c905fe.js.map": "/speak-n-chat/static/js/main.a7c905fe.js.map",
     "453.c5ab181e.chunk.js.map": "/speak-n-chat/static/js/453.c5ab181e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4ea9ff8b.css",
-    "static/js/main.f9c81d5a.js"
+    "static/js/main.a7c905fe.js"
   ]
 }
